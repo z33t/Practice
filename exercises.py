@@ -9,3 +9,13 @@ def same_first_last(nums):
     return True
   else:
     return False
+
+
+
+
+"""Return an int array length 3 containing the first 3 digits of pi, {3, 1, 4}.
+
+make_pi() → [3, 1, 4]"""
+def make_pi():
+  num = [3,1,4]
+  return [num[0],num[1],num[2]]
